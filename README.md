@@ -1,6 +1,3 @@
-Here’s a GitHub repository introduction for your **Network Automation with SDA and DevNet Fundamentals** project:
-
----
 
 # Network Automation with SDA and DevNet Fundamentals
 
